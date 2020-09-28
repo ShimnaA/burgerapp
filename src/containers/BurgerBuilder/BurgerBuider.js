@@ -85,7 +85,7 @@ class BurgerBuilder extends Component{
            ingredients: this.state.ingredient,
            price: this.state.totalPrice,
            customer: {
-               name: 'shimna',
+               name: 'shimnaa',
                address: {
                    street: 'street1',
                    zipcode: '2323',
